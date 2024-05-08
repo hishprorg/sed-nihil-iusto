@@ -1,13 +1,13 @@
 {
   "name": "@hishprorg/sed-nihil-iusto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "nareshkumarjaggi",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.1.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.2.4",
     "@hishprorg/alias-quia-occaecati": "^1.0.1",
     "@hishprorg/aliquid-ad-vero": "^1.0.1",
     "@hishprorg/autem-sint-quas": "^1.0.1",
